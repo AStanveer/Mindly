@@ -1,1 +1,0 @@
-ALTER TABLE users ADD remember_token VARCHAR(255) DEFAULT NULL;
